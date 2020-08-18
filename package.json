@@ -1,0 +1,30 @@
+{
+  "name": "omerhudai",
+  "version": "1.0.0",
+  "description": "bu bir deneme projesidir. Deneyelim.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "omer1": "echo \"Benim adım Ömer\" memnun oldum",
+    "omer2": "echo 'Benim adım Ömer' memnun oldum...",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "deneme",
+    "paket"
+  ],
+  "author": "omerhudai",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^5.10.0",
+    "nodemailer": "^6.4.11",
+    "simple-is": "^0.2.0"
+  },
+  "devDependencies": {
+    "webpack-cli": "^3.3.12"
+  },
+  "repository": {
+  "type": "git",
+  "url": "https://github.com/OmerHudai/omerhudai-test.git"  
+  }
+}
